@@ -11,6 +11,7 @@
                 t-on-click="onClickRefresh"
                 title="Refresh"
                 tabindex="-1"
+                data-hotkey="shift+r"
             />
         </nav>
     </t>
